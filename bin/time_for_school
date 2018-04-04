@@ -29,6 +29,6 @@ joe.learn(abc)
 joe.learn(del)
 joe.learn(ghi)
 
-puts joe.knowledge
+puts Student.
 
 
