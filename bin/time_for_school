@@ -31,6 +31,8 @@ joe = Student.new
 joe.first_name = "Joe"
 joe.last_name = "Smith"
 abc = avi.teach
+def = avi.teach
+ghi = avi.teach
 joe.learn(abc)
 
 
