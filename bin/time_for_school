@@ -31,10 +31,10 @@ joe = Student.new
 joe.first_name = "Joe"
 joe.last_name = "Smith"
 abc = avi.teach
-def = avi.teach
+del = avi.teach
 ghi = avi.teach
 joe.learn(abc)
-joe.learn(def)
+joe.learn(del)
 joe.learn(ghi)
 joe.knowledge
 
