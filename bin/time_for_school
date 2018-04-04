@@ -34,5 +34,8 @@ abc = avi.teach
 def = avi.teach
 ghi = avi.teach
 joe.learn(abc)
+joe.learn(def)
+joe.learn(ghi)
+joe.knowledge
 
 
